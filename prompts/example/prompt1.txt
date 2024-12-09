@@ -1,1 +1,9 @@
-
+positive:A pencil sketch of a textured stone surface, focusing on the grain and the subtle variations in tone, monochromatic tones, detailed line work, creating a sense of depth and texture, high resolution
+negative:text, watermark
+-----------------
+positive:A charcoal drawing of a textured concrete wall, showcasing the rough, irregular surface, deep blacks, strong contrasts, expressive lines, high resolution
+negative:text, watermark
+-----------------
+positive:A photograph, worm's eye view extreme wide shot, of a textured field of wheat, showing the vastness of the field and the subtle variations in color and texture, natural lighting, high resolution
+negative:text, watermark
+-----------------
